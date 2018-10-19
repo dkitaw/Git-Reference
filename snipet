@@ -1,0 +1,9 @@
+"Public class": {
+		"prefix": "_pc",
+		"body": [
+			"public ${1|class, interface|} ${TM_FILENAME_BASE} {",
+			"$2",
+			"}"
+		],
+		"description": "Public class"
+	}
